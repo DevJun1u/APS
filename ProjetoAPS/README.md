@@ -125,12 +125,15 @@ As tecnologias utilizadas no desenvolvimento serão documentadas conforme forem 
 
 Linguagens
 A definir
+
 Frameworks e Bibliotecas
 A definir
+
 Ferramentas
 Git
 GitHub
 Ferramentas de desenvolvimento utilizadas pela equipe
+
 📋 Checklist
 Análise e Planejamento
  Levantamento de requisitos
@@ -158,6 +161,7 @@ Documentação
  Manual de utilização
  Atualização do README
  Documentação final
+ 
 📚 Documentação
 
 A documentação do projeto poderá incluir:
@@ -206,10 +210,10 @@ A licença de uso e distribuição do projeto será definida posteriormente pela
 **Disciplina:** Engenharia de Software  
 **Ano:** 2026  
 **Status:** Em desenvolvimento  
-**Equipe:** Jusciel, David Brito, Felipe Nascimento, Gecinaldo, Kevin e André
+**Equipe:** Jusciel, Felipe Nascimento, David Brito, Gecinaldo, André e Kevin
 
 ## ✨ Sobre o Projeto
 
 Este projeto foi desenvolvido como parte das atividades acadêmicas da disciplina de Engenharia de Software, com o propósito de aplicar, na prática, os conceitos e as metodologias estudados ao longo do curso, promovendo o desenvolvimento de habilidades técnicas e o trabalho colaborativo entre os integrantes da equipe.
 
-**Última atualização:** Outubro de 2026
+**Última atualização:** Novembro de 2026
